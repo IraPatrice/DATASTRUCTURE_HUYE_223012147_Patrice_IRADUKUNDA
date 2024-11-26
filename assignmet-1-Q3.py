@@ -24,10 +24,10 @@ def processRegistration():
     else:
         print("No student found for processing.")
 
-registerStudent("Alice Johnson", 20, "Computer Science")
-registerStudent("Bob Smith", 22, "Engineering")
-registerStudent("Charlie Brown", 19, "Mathematics")
-registerStudent("David Wilson", 21, "Physics")
+registerStudent("Clement Mucyo", 20, "Computer Science")
+registerStudent("Kevin Muhire", 22, "Engineering")
+registerStudent("Patrice Mutsepe", 19, "Mathematics")
+registerStudent("Akimana ", 21, "Physics")
 
 undoRegistration()
 undoRegistration()
